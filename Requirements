@@ -1,0 +1,16 @@
+# Requirements for Workshop Inventory System with LLM support
+
+# Core requirements
+requests>=2.31.0
+
+# For LangChain support
+langchain>=0.1.0
+langchain-experimental>=0.0.47
+langchain-community>=0.0.10
+sqlalchemy>=2.0.0
+
+# Nice to have for better CLI
+colorama>=0.4.6
+
+# Optional but recommended
+python-dotenv>=1.0.0
